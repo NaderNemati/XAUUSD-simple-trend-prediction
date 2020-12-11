@@ -1,0 +1,1 @@
+# XAUUSD-simple-trend-prediction
